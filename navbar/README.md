@@ -2,13 +2,13 @@
 
 ## navbar-1
 
-![navbar-1-light](/images/navbar-1-light.jpg)
+![navbar-1-light](./images/navbar-1-light.jpg)
 
-![navbar-1-dark](/images/navbar-1-dark.jpg)
+![navbar-1-dark](./images/navbar-1-dark.jpg)
 
-![navbar-1-mobile](/images/navbar-1-mobile.jpg)
+![navbar-1-mobile](./images/navbar-1-mobile.jpg)
 
-![navbar-1-desktop](/images/navbar-1-desktop.jpg)
+![navbar-1-desktop](./images/navbar-1-desktop.jpg)
 
 This site is hosted. See [Demo](https://navebars.netlify.app/navbar-1).
 
@@ -16,7 +16,7 @@ This site is hosted. See [Demo](https://navebars.netlify.app/navbar-1).
 
 ## navbar-2
 
-![navbar-2](/images/navbar-2.jpg)
+![navbar-2](./images/navbar-2.jpg)
 
 This site is hosted. See [Demo](https://navebars.netlify.app/navbar-2).
 
