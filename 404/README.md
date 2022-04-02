@@ -2,7 +2,7 @@
 
 ## 404-1.html
 
-![404-1](/images/404-1.jpg)
+![404-1](./images/404-1.jpg)
 
 This site is hosted. See [Demo](https://404-not.netlify.app/404-1).
 
