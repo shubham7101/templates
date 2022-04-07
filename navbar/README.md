@@ -21,3 +21,14 @@ This site is hosted. See [Demo](https://templatos.netlify.app/navbar/navbar-1).
 This site is hosted. See [Demo](https://templatos.netlify.app/navbar/navbar-2).
 
 `wget https://raw.githubusercontent.com/Shubham-md786/templates/main/navbar/navbar-2.html`
+
+## navbar-3
+
+![navbar-3](./images/navbar-3.jpg)
+
+This site is hosted. See [Demo](https://t
+emplatos.netlify.app/navbar/navbar-3).
+
+`wget https://raw.githubusercontent.com/S
+hubham-md786/templates/main/navbar/navbar
+-3.html`
