@@ -2,7 +2,7 @@
 
 ## calculator-1
 
-![calculator-1](./images/calculator.jpg)
+![calculator-1](./images/calculator-1.jpg)
 
 This site is hosted. See [Demo](https://templatos.netlify.app/calculator/calculator-1).
 
